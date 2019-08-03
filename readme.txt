@@ -5,4 +5,5 @@ Git tracks changes of file.
 Creating a new branch is quick and simple.
 Git is good.
 Cit is quickly to creame a new branch.
+git to add merge.
 
